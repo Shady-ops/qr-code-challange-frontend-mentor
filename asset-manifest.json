@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.b6cad1df.css",
-    "main.js": "/static/js/main.64023fea.js",
-    "static/js/787.b234c79c.chunk.js": "/static/js/787.b234c79c.chunk.js",
-    "index.html": "/index.html",
-    "main.b6cad1df.css.map": "/static/css/main.b6cad1df.css.map",
-    "main.64023fea.js.map": "/static/js/main.64023fea.js.map",
-    "787.b234c79c.chunk.js.map": "/static/js/787.b234c79c.chunk.js.map"
+    "main.css": "/qr-code-challange-frontend-mentor/static/css/main.b6cad1df.css",
+    "main.js": "/qr-code-challange-frontend-mentor/static/js/main.3d99ed3e.js",
+    "static/js/787.b234c79c.chunk.js": "/qr-code-challange-frontend-mentor/static/js/787.b234c79c.chunk.js",
+    "index.html": "/qr-code-challange-frontend-mentor/index.html",
+    "main.b6cad1df.css.map": "/qr-code-challange-frontend-mentor/static/css/main.b6cad1df.css.map",
+    "main.3d99ed3e.js.map": "/qr-code-challange-frontend-mentor/static/js/main.3d99ed3e.js.map",
+    "787.b234c79c.chunk.js.map": "/qr-code-challange-frontend-mentor/static/js/787.b234c79c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6cad1df.css",
-    "static/js/main.64023fea.js"
+    "static/js/main.3d99ed3e.js"
   ]
 }
